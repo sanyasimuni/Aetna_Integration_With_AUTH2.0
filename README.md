@@ -1,4 +1,4 @@
-# Aetna_Integration_With_AUTH2.0
+[_v2_patientaccess_Patient.json](https://github.com/user-attachments/files/18869968/_v2_patientaccess_Patient.json)[_v2_patientaccess_Patient.json](https://github.com/user-attachments/files/18869956/_v2_patientaccess_Patient.json)# Aetna_Integration_With_AUTH2.0
 
 Configure New Token
 Token Name
@@ -29,3 +29,7 @@ State
 
 
 ![t3](https://github.com/user-attachments/assets/36b13a75-d98d-4800-a4ac-72dd056866db)
+
+[sandbox_v2_.xlsx](https://github.com/user-attachments/files/18869994/sandbox_v2_.xlsx)
+
+[_v2_patientaccess_Patient1.json](https://github.com/user-attachments/files/18870009/_v2_patientaccess_Patient1.json)
